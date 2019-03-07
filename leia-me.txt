@@ -1,0 +1,4 @@
+Este aplicativo mostra o funcionamento de algumas funções que podem utilizar o firebase.
+Ele mostra o cadastro de dados de produtos e usuários, mostra como fazer o identificador (chave-primaria) 
+manual e automática, mostra alguns filtros de pesquisa desses dados, como logar e deslogar um usuário,
+e também mostra como salvar e baixar uma imagem utilizando o firebase.
